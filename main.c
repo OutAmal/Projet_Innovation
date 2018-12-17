@@ -34,10 +34,8 @@ void setup()
   // setup initial address, channel, and TX power.
   Radio.begin(0x01, CHANNEL_1, POWER_MAX);
 
-  // Configure the on-board LCD of the MSP430FR6989
+  // Configure the on-board LCD of the "MSP430FR6989"
   myLCD.init();
-
-;
 
   // Print sensor type to the LCD screen
   String sensorType = String(Capteur)+" sensor";
