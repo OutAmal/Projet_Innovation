@@ -12,3 +12,25 @@
 4-Representation graphique de l'application par Node Red.
 
 5-Transmission de la DATA vers freeboard.io et visualisation des variations de Data dans  un Dash-board.
+
+
+
+
+
+✓ Hardware
+
+• MSP430FR6989
+
+• Capteurs
+
+• CC110L RF Booster Pack
+
+• CC3200-LAUNCHXL
+
+✓ Software et services en ligne
+
+• CCS
+
+• IBM Bluemix
+
+• MQTT
