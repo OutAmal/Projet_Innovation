@@ -28,10 +28,12 @@
 3-Construction de la partie Cloud grace au servide de IBM <Cloud Blue mix>
   
 4-Representation graphique de l'application par Node Red.
+
 ![Node Red application](https://github.com/OutAmal/Projet_Innovation/blob/master/NODE%20RED.PNG)
 
 5-Transmission de la DATA vers freeboard.io et visualisation des variations de Data dans  un Dash-board.
 
+![Dash_board](https://github.com/OutAmal/Projet_Innovation/blob/master/NODE%20RED.PNG)
 
 
 
