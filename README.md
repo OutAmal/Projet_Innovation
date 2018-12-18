@@ -1,5 +1,23 @@
 # RÉSEAUX DE CAPTEURS CONNECTÉS AU CLOUD VIA RF SUB 1GHZ
 
+✓ Hardware
+
+• MSP430FR6989
+
+• Capteurs
+
+• CC110L RF Booster Pack
+
+• CC3200-LAUNCHXL
+
+✓ Software et services en ligne
+
+• CCS
+
+• IBM Bluemix
+
+• MQTT
+
 1-Création d'un réseaux de capteurs reliés entre eux par un module RF SUB 1GHZ.
 
 ![Architechture du réseau](https://github.com/OutAmal/Projet_Innovation/blob/master/Architecture%20du%20r%C3%A9seaux.PNG)
@@ -18,20 +36,3 @@
 
 
 
-✓ Hardware
-
-• MSP430FR6989
-
-• Capteurs
-
-• CC110L RF Booster Pack
-
-• CC3200-LAUNCHXL
-
-✓ Software et services en ligne
-
-• CCS
-
-• IBM Bluemix
-
-• MQTT
