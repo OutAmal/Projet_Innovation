@@ -25,6 +25,8 @@
 
 2-Création d'une passerelle Wi-Fi relié au capteurs via un RF SUB 1GHZ et au Cloud via le protocol MQTT.
 
+[Partie Gateway_Wifi](https://github.com/OutAmal/Gateway_wifi)
+
 3-Construction de la partie Cloud grace au servide de IBM <Cloud Blue mix>
   
 4-Representation graphique de l'application par Node Red.
@@ -37,7 +39,7 @@
 
 **********************************************************
 
-[Suite du projet : Gateway_Wifi](https://github.com/OutAmal/Gateway_wifi)
+
 
 
 
