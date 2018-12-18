@@ -33,7 +33,7 @@
 
 5-Transmission de la DATA vers freeboard.io et visualisation des variations de Data dans  un Dash-board.
 
-![Dash_board](https://github.com/OutAmal/Projet_Innovation/blob/master/NODE%20RED.PNG)
+![Dash_board](https://github.com/OutAmal/Projet_Innovation/blob/master/Dash-board.PNG)
 
 
 
